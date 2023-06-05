@@ -14,6 +14,7 @@ ExpressElectronics is an Android application built with Android Studio and Fires
 - Login Activity
 - Register Activity
 
+
 ## Fragments
 
 1. EditPasswordProfileFragment
@@ -24,31 +25,40 @@ ExpressElectronics is an Android application built with Android Studio and Fires
 6. ProductFragment
 7. ShoppingCartFragment
 8. UserProfileFragment
+9. 
+### Login Activity
+<img src="./Screenshots/Login.jpeg" width="500px"/>
+
+### Register Activity
+<img src="./Screenshots/Register.jpeg" width="500px"/>
+
 
 ### EditPasswordProfileFragment
-![EditPasswordProfileFragment](./Screenshots/Password.jpeg)
+<img src="./Screenshots/Password.jpeg" width="500px"/>
 
 
 ### EditProfileFragment
-(Screenshot will be added soon)
+<img src="./Screenshots/EditProfile.jpeg" width="500px"/>
 
 ### OrderHistoryFragment
-(Screenshot will be added soon)
+<img src="./Screenshots/OrderHistroy.jpeg" width="500px"/>
 
-### PaymentFragment
-(Screenshot will be added soon)
+
 
 ### ProductDetailsFragment
-(Screenshot will be added soon)
+<img src="./Screenshots/ProudctDetails.jpeg" width="500px"/>
 
 ### ProductFragment
-(Screenshot will be added soon)
+<img src="./Screenshots/ProudctList.jpeg" width="500px"/>
 
 ### ShoppingCartFragment
-(Screenshot will be added soon)
+<img src="./Screenshots/FullCart.jpeg" width="500px"/>
+
+<img src="./Screenshots/EmptyCart.jpeg" width="500px"/>
+
 
 ### UserProfileFragment
-(Screenshot will be added soon)
+<img src="./Screenshots/Profile.jpeg" width="500px"/>
 
 ## Building and Running
 
