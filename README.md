@@ -2,9 +2,6 @@
 
 ExpressElectronics is an Android application built with Android Studio and Firestore as the database. This app has user authentication and utilizes Firebase storage.
 
-## Screenshots
-
-(Will be uploaded soon)
 
 ## Features
 
@@ -29,7 +26,8 @@ ExpressElectronics is an Android application built with Android Studio and Fires
 8. UserProfileFragment
 
 ### EditPasswordProfileFragment
-(Screenshot will be added soon)
+![EditPasswordProfileFragment](./Screenshots/Password.jpeg)
+
 
 ### EditProfileFragment
 (Screenshot will be added soon)
