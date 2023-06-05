@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "668680567797",
+    "firebase_url": "https://express-d4e6e-default-rtdb.firebaseio.com",
+    "project_id": "express-d4e6e",
+    "storage_bucket": "express-d4e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668680567797:android:cc2c1cfaaca4856decfebc",
+        "android_client_info": {
+          "package_name": "com.example.express"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668680567797-leogjqfpn8ijneh9ij33ilieoj9ica2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZp9IBColNMDU5zjjO5Fnr5gWtqM8sEMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668680567797-leogjqfpn8ijneh9ij33ilieoj9ica2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668680567797:android:e72ad192d25cee65ecfebc",
+        "android_client_info": {
+          "package_name": "com.example.expresselectronics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668680567797-leogjqfpn8ijneh9ij33ilieoj9ica2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZp9IBColNMDU5zjjO5Fnr5gWtqM8sEMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668680567797-leogjqfpn8ijneh9ij33ilieoj9ica2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

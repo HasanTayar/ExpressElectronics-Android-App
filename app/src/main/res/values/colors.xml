@@ -1,0 +1,19 @@
+<resources>
+    <!-- Light theme colors -->
+    <color name="colorPrimary">#3F51B5</color> <!-- Indigo 500 -->
+    <color name="colorPrimaryVariant">#303F9F</color> <!-- Indigo 700 -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White -->
+
+    <color name="colorSecondary">#FF4081</color> <!-- Pink A200 -->
+    <color name="colorSecondaryVariant">#F50057</color> <!-- Pink A400 -->
+    <color name="colorOnSecondary">#000000</color> <!-- Black -->
+
+    <color name="colorSurface">#FFFFFF</color> <!-- White -->
+    <color name="colorOnSurface">#000000</color> <!-- Black -->
+
+    <color name="colorBackground">#FFFFFF</color> <!-- White -->
+    <color name="colorOnBackground">#000000</color> <!-- Black -->
+
+    <color name="colorError">#B00020</color> <!-- Red 700 -->
+    <color name="colorOnError">#FFFFFF</color> <!-- White -->
+</resources>

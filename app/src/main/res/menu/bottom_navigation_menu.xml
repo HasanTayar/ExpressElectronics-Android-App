@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_product"
+        android:icon="@drawable/ic_product"
+        android:title="Products"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/nav_cart"
+        android:icon="@drawable/ic_cart"
+        android:title="Cart"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/nav_order_history"
+        android:icon="@drawable/ic_order_history"
+        android:title="Order History"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/nav_user_profile"
+        android:icon="@drawable/ic_user_profile"
+        android:title="User Profile"
+        android:enabled="true"/>
+</menu>
